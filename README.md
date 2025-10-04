@@ -49,6 +49,9 @@ The dataset is stored in the **RAW DATA** sheet with the following columns:
      * Agent vs Target Performance
      * Regional comparison
      * Top 10 achievers & bottom 10 agents
+     * using mecros
+     * using charts
+       
 
 ---
 
@@ -74,6 +77,7 @@ Working with this dataset helps you:
 ## 📌 Project Ideas
 
 * Identify **top-performing support agents**
+  
 * Compare **performance by location**
 * Track **target achievement %** vs **pending %**
 * Highlight **agents needing improvement**
