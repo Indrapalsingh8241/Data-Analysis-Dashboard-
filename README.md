@@ -49,7 +49,7 @@ The dataset is stored in the **RAW DATA** sheet with the following columns:
      * Agent vs Target Performance
      * Regional comparison
      * Top 10 achievers & bottom 10 agents
-     * using mecros
+     * using mecros in ecel 1 advanced 
      * using charts
        
 
